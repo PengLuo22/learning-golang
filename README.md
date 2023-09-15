@@ -16,6 +16,9 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 
 ## ➡️ [Go: A Documentary by golang.design](https://golang.design/s/gohistory-talkgo)
 
+## Go 学习笔记
+[语雀 我的go学习笔记](https://www.yuque.com/luopeng-zolg8/hgaz97/iua7rawsk3q2ti60))
+
 ## Go 学习资料
 
 | Go 入门                                                                                                  |
